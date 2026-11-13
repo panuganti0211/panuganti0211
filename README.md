@@ -102,8 +102,8 @@
 
 ## 🤝 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
+- LinkedIn: https://www.linkedin.com/in/panuganti-bharath/
+- Portfolio: https://bharathpanuganti.netlify.app/
 - GitHub: https://github.com/panuganti0211
 
 <p align="center">
